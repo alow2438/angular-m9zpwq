@@ -1,18 +1,18 @@
 export const products = [
   {
-    name: 'Phone XL',
+    name: 'Sherpa Blanket',
     price: 799,
-    description: 'A large phone with one of the best screens'
+    description: 'A soft navy blanket made with love.'
   },
   {
-    name: 'Phone Mini',
+    name: 'Pop-up Beach Tent',
     price: 699,
-    description: 'A great phone with one of the best cameras'
+    description: 'Includes an open front and can house up to 2 people. Carrying case included.'
   },
   {
-    name: 'Phone Standard',
+    name: 'ColorBlock Jacket',
     price: 299,
-    description: ''
+    description: 'A cozy jacket for the office tundra.'
   }
 ];
 
